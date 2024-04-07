@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T13:40:09.023Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="iyN3CokqhDE8VaPtNQXC" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T14:21:29.790Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="wq5uN59zg1p6i8FdkPlA" version="24.2.2" type="github">
   <diagram name="Page-1" id="lEQxsnUgB_HwzbzumoA8">
     <mxGraphModel dx="2973" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X3rugOpVvgxqBvptNnG5-29" value="" style="swimlane;startSize=0;shadow=0;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="110" width="1250" height="700" as="geometry" />
+        </mxCell>
         <mxCell id="X3rugOpVvgxqBvptNnG5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X3rugOpVvgxqBvptNnG5-1" target="X3rugOpVvgxqBvptNnG5-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -105,6 +108,9 @@
         </mxCell>
         <mxCell id="X3rugOpVvgxqBvptNnG5-27" value="&lt;div&gt;Target service for rate limiting&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="760" width="170.88" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X3rugOpVvgxqBvptNnG5-28" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
